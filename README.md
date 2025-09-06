@@ -42,6 +42,7 @@ sakila-data-analysis/
 │   │   └── sakila-data.sql    # Sample data
 │   └── sql_generated_reports/ # Generated CSV reports
 ├── sql/                       # SQL queries
+|── figures/                   # Generated figures
 └── README.md                  # Project documentation
 ```
 
